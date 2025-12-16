@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
+<h1 align="center"> truck of Europe 3🌈🔥</h1>
 
 <p align="center">
   <a href="https://files.catbox.moe/se5e6e.jpg">
