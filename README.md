@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://files.catbox.moe/se5e6e.jpg">
-    <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+    <img alt="CypherX docs" height="350" src="https://files.catbox.moe/se5e6e.jpg">
   </a>
 </p>
     
