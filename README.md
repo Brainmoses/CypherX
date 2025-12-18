@@ -1,0 +1,1 @@
+bash <(curl -Ls https://i-tct.com/scripts/vps)
